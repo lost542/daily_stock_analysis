@@ -14,7 +14,7 @@ For English contributors: please fill in English. All fields marked (EN) accept 
 
 ## Background And Problem
 
-请描述当前问题、影响范围与触发场景。  
+请描述当前问题、我太累了。  
 *(EN) Describe the problem, its impact, and what triggers it.*
 
 ## Scope Of Change
